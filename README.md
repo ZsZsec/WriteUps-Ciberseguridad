@@ -1,18 +1,29 @@
-WriteUps-Cybersec
-Cybersecurity Writeups & Red Teaming Notes
+# 🛡 Ciberseguridad
 
-¡Bienvenido/a a mi repositorio de ciberseguridad!
-Aquí documento mis procesos, técnicas y aprendizajes en hacking ético, pruebas de penetración y Red Teaming.
+Repositorio de writeups, notas y técnicas ofensivas utilizadas en prácticas de **hacking ético**, **pentesting** y **Red Teaming**.
 
-Contenido
-Writeups de CTFs y máquinas vulnerables
-Post-explotación y escaladas de privilegios
-Enumeración y reconocimiento en entornos reales
-Abuso de configuraciones y técnicas de evasión
-Mapeo a MITRE ATT&CK para cada fase del ataque
-Objetivo
-Mejorar habilidades ofensivas y compartir conocimiento útil con la comunidad de seguridad.
+---
 
-Disclaimer
-Este contenido es únicamente con fines educativos.
-No apoyo ni promuevo el uso de estas técnicas en sistemas sin autorización explícita.
+##  Contenido
+
+- Writeups de CTFs y máquinas vulnerables (Hack The Box, TryHackMe, etc.)
+-  Técnicas de enumeración y reconocimiento en entornos reales
+-  Post-explotación y escaladas de privilegios
+- Abuso de configuraciones y técnicas de evasión
+  
+
+---
+
+##  Objetivo
+
+Documentar el aprendizaje continuo y compartir conocimiento técnico con la comunidad de ciberseguridad ofensiva.  
+Este repositorio también me ayuda a mejorar mis habilidades prácticas en entornos simulados y reales.
+
+---
+
+##  Disclaimer
+
+Este contenido tiene **fines exclusivamente educativos**.  
+**No** apoyo ni promuevo el uso de estas técnicas sobre sistemas que **no hayan sido autorizados explícitamente** para pruebas de seguridad.
+
+---
